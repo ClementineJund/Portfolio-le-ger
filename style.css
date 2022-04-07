@@ -1,0 +1,185 @@
+body{
+    width: 1200px;
+    margin: auto;
+
+}
+h2,h3,h4{
+    font:  30px "Avenir";
+    text-align: center;
+    color: midnightblue;
+
+
+}
+
+.menu_ul a:link{
+    color: rebeccapurple ;
+    text-decoration: none;
+    font-family: "Avenir";
+}
+.menu_ul a:hover{
+    color: skyblue;
+
+}
+
+.menuport a:link{
+    color: rebeccapurple ;
+    text-decoration: none;
+    font-family: "Avenir";
+}
+
+.menuport a:hover{
+    color: aliceblue;
+}
+
+p{
+    font-family: "Avenir";
+    text-align: center justify;
+    font-size: 20px;
+
+}
+iframe{
+    margin: auto;
+}
+
+
+.para{
+    font:20px "Avenir", sans-serif;
+    margin: auto;
+}
+#Q{
+    margin: auto;
+    text-decoration: none;
+    font:  20px "Avenir";
+
+}
+#Port{
+    left: 900px;
+    text-decoration: none;
+    font:  20px "Avenir";
+}
+#Proj{
+    left: 1100px;
+    text-decoration: none;
+    font:  20px "Avenir";
+}
+#cv{
+    text-decoration: none;
+}
+#nom{
+    top: 0px;
+    font:  50px "Avenir";
+    color: midnightblue;
+
+}
+#phintro{
+    width: 1200px;
+    top: 80px;
+}
+
+#para1{
+    background-color: beige; 
+    padding: 50px;
+    width: 700px;
+    margin:auto;
+    position: relative;
+    left: 100px;
+    text-align: justify ;   
+}
+
+#moi{
+    width: 280px;
+    float: left;
+
+}
+#para2{
+
+    background-color: beige; 
+    padding: 50px;
+    width: 700px;
+    text-align: justify ;
+
+
+}
+#tablo{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: auto;
+}
+.img400px {
+    width: 390px;
+}
+
+#bando{
+    position: fixed;
+    top: 0px;
+    height: 70px;
+    width: 1200px;
+    z-index: 1;
+    background-color: white;
+}
+#menu {
+    float: right;
+}
+.menu_ul {
+    display: flex;              /* Transformation en flexbox */
+    /*background-color: #ccc;      Ajout de la couleur d'arrière-plan */
+    justify-content: center;     /* Alignements des liens dans le menu */
+}
+.menu_ul li {
+    list-style-type: none ;       /* Suppression des puces */
+    margin:10px;
+}
+
+#copy{
+    bottom-right: 0px;
+    font: 20px "Avenir";
+
+}
+
+#orgaportfolio {
+    font-size: 40px ;
+    margin: auto;
+    border-spacing: 15px;
+}
+
+#orgaportfolio td {
+    padding: 40px;
+    border: 1px ;
+    height: 300px;
+    background-color: powderblue;
+
+}
+
+.bac{
+
+    top: 150px; 
+    width: 1200px;
+    height: 420px;
+
+}
+#danielle{
+
+    margin-top: 100px;
+    margin-left: 320px;
+    margin-right:auto;
+
+}
+
+.equi{
+    margin-top: 100px;
+    margin-right:auto;
+}
+
+#Xavier{
+
+    margin-left: 320px;
+    margin-right:auto;
+}
+
+
+
+
+
+
+
